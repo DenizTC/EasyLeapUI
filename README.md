@@ -9,6 +9,9 @@ contain Natural User Interfaces (NUIs).
 
 ![Screenshot](http://i.imgur.com/zNDPuuO.png)
 
+A unity packaged version can be downloaded from here:
+http://www.filedropper.com/easyleapui100
+
 ### Before you begin
 EasyLeapUI requires the Orion software update. It can be downloaded for free from: https://developer.leapmotion.com/orion
     
