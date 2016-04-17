@@ -1,9 +1,13 @@
 # EasyLeapUI
 
+
+
 EasyLeapUI is a set of tools to quickly and easily create user interactions
 using the LeapMotion controller. It contains Graphical User Interfaces (GUIs)
 such as buttons, toggle groups, and sliders. Future releases will also 
 contain Natural User Interfaces (NUIs).
+
+![Screenshot](http://i.imgur.com/zNDPuuO.png)
 
 ### Before you begin
 EasyLeapUI requires the Orion software update. It can be downloaded for free from: https://developer.leapmotion.com/orion
